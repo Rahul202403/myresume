@@ -1,0 +1,46 @@
+body{
+    color :black;
+    background: white;
+    font-family :'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: normal;
+    border: 5px rgb(46, 112, 235) solid;
+    padding : 20px;
+    margin : auto;
+    text-align :left;
+    width: 60%;
+    line-height: 1.6em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.initial{
+    text-align :center;
+}
+td, th{
+    padding-left: 20px;
+    padding-right: 20px;
+    border : 1px solid black;
+}
+th{
+    text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color :rgb(46, 112, 235);
+    font-size : 20px;
+}
+h1{
+    font-size: 25px;
+}
+h3{
+    font-size: 18px;
+}
+table{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+img{
+    float : right;
+    width : 150px;
+    position :relative;
+}
